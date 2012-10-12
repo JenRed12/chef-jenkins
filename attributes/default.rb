@@ -20,6 +20,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+#
+#
+#
+#
 
 default[:jenkins][:mirror] = "http://updates.jenkins-ci.org"
 default[:jenkins][:java_home] = ENV['JAVA_HOME']
